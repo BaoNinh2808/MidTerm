@@ -1,0 +1,48 @@
+{
+  "data":[
+    {
+      "time": "08:00 AM",
+      "state": "available"
+    },
+    {
+      "time": "9:30 AM",
+      "state": "available"
+    },
+    {
+      "time": "11:00 AM",
+      "state": "available"
+    },
+    {
+      "time": "12:00 AM",
+      "state": "unavailable"
+    },
+    {
+      "time": "14:30 PM",
+      "state": "available"
+    },
+    {
+      "time": "16:30 PM",
+      "state": "unavailable"
+    },
+    {
+      "time": "17:30 PM",
+      "state": "available"
+    },
+    {
+      "time": "19:00 PM",
+      "state": "available"
+    },
+    {
+      "time": "20:30 PM",
+      "state": "available"
+    },
+    {
+      "time": "21:30 PM",
+      "state": "available"
+    },
+    {
+      "time": "22:00 PM",
+      "state": "available"
+    }
+  ]
+}

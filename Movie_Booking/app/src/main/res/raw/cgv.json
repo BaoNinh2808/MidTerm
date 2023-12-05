@@ -1,0 +1,40 @@
+{
+  "data":[
+    {
+      "time": "09:30 AM",
+      "state": "available"
+    },
+    {
+      "time": "12:30 AM",
+      "state": "available"
+    },
+    {
+      "time": "14:00 PM",
+      "state": "unavailable"
+    },
+    {
+      "time": "16:00 PM",
+      "state": "unavailable"
+    },
+    {
+      "time": "16:30 PM",
+      "state": "available"
+    },
+    {
+      "time": "19:30 PM",
+      "state": "available"
+    },
+    {
+      "time": "20:30 PM",
+      "state": "unavailable"
+    },
+    {
+      "time": "21:00 PM",
+      "state": "available"
+    },
+    {
+      "time": "21:30 PM",
+      "state": "available"
+    }
+  ]
+}

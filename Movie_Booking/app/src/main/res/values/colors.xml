@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_background">#19191b</color>
+    <color name="pink">#e45eb0</color>
+    <color name="green">#34e3c4</color>
+<!--  Theme-->
+    <color name="primary_theme">#FFEEEE</color>
+    <color name="secondary_theme">#F4F4F4</color>
+
+<!--  Color-->
+    <color name="primary_color">#8B418F</color>
+    <color name="secondary_color">#A23F16</color>
+    <color name="tertiary_color">#006780</color>
+    <color name="error_color">#BA1A1A</color>
+
+    <!--  Container Color-->
+    <color name="primary_container">#B3FFD6FA</color>
+    <color name="secondary_container">#FFDBCF</color>
+    <color name="tertiary_container">#B8EAFF</color>
+    <color name="error_container">#FFDAD6</color>
+
+    <!--  On Container Color-->
+    <color name="primary_on_container">#36003C</color>
+    <color name="secondary_on_container">#380D00</color>
+    <color name="tertiary_on_container">#001F28</color>
+    <color name="error_on_container">#410002</color>
+
+<!--    surface-->
+    <color name="on_surface_inverse">#FAEEEF</color>
+    <color name="on_surface">#201A1B</color>
+    <color name="variant">#4D444C</color>
+<!--   background-->
+    <color name="background">#FCFCFC</color>
+
+</resources>

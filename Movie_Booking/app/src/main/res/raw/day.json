@@ -1,0 +1,40 @@
+{
+  "data":[
+    {
+      "dayName": "WED",
+      "dayNumber": "29"
+    },
+    {
+      "dayName": "THU",
+      "dayNumber": "30"
+    },
+    {
+      "dayName": "FRI",
+      "dayNumber": "1"
+    },
+    {
+      "dayName": "SAT",
+      "dayNumber": "2"
+    },
+    {
+      "dayName": "SUN",
+      "dayNumber": "3"
+    },
+    {
+      "dayName": "MON",
+      "dayNumber": "4"
+    },
+    {
+      "dayName": "TUE",
+      "dayNumber": "5"
+    },
+    {
+      "dayName": "WED",
+      "dayNumber": "6"
+    },
+    {
+      "dayName": "THU",
+      "dayNumber": "7"
+    }
+  ]
+}
